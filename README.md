@@ -53,7 +53,7 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 ### Current
 
 - 📖 **[injectbook](https://github.com/prashantbhudwal/injectbook)** - turn any ebook into an agent skill.
-- 🎓 **[buddy](https://github.com/prashanthudwal/buddy)** - agent to help you learn anything.
+- 🎓 **[buddy](https://github.com/prashantbhudwal/buddy)** - agent to help you learn anything.
 - 🎧 **[citadel](https://github.com/prashantbhudwal/citadel)** - local-first music embeddings lab: ingest -> embed -> cluster -> visualize.
 - 📝 **[pg - essay agent](https://github.com/prashantbhudwal/writing-agent)** - terminal essay writer that drafts one sentence per pass with tool-calling + editor cycles.
 
