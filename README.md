@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Prashant Bhudwal
+# Hi, I'm Prashant
 
 📍 Bengaluru, India 
 
