@@ -2,7 +2,7 @@
 
 # Hi, I'm Prashant Bhudwal
 
-📍 Bengaluru, India · 🧩 Product Engineer (AI)
+📍 Bengaluru, India 
 
 I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumbing.
 
@@ -51,14 +51,13 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 ## Projects
 
 ### Current
-
-- 📖 **[injectbook](https://github.com/prashantbhudwal/injectbook)** - turn any ebook into an agent skill.
 - 🎓 **[buddy](https://github.com/prashantbhudwal/buddy)** - agent to help you learn anything.
-- 🎧 **[citadel](https://github.com/prashantbhudwal/citadel)** - local-first music embeddings lab: ingest -> embed -> cluster -> visualize.
-- 📝 **[pg - essay agent](https://github.com/prashantbhudwal/writing-agent)** - terminal essay writer that drafts one sentence per pass with tool-calling + editor cycles.
 
 ### Legacy
 
+- 📖 **[injectbook](https://github.com/prashantbhudwal/injectbook)** - turn any ebook into an agent skill.
+- 🎧 **[citadel](https://github.com/prashantbhudwal/citadel)** - local-first music embeddings lab: ingest -> embed -> cluster -> visualize.
+- 📝 **[pg - essay agent](https://github.com/prashantbhudwal/writing-agent)** - terminal essay writer that drafts one sentence per pass with tool-calling + editor cycles.
 - 🏫 **[FalconAI](https://github.com/prashantbhudwal/falconEDU)** - AI school platform: multi-role PWA with streaming chat/tests; 200+ signups, paid pilot across 2 schools.
 - 📚 **[Lex Reader](https://github.com/prashantbhudwal/falcontoo)** - AI article reader with RAG + credibility analysis (Puppeteer, Qdrant).
 
@@ -69,12 +68,6 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 - ✍️ **[Beyond the Code](https://ashant.in/blog/beyond-the-code-my-reflections-after)** - reflections after 365 days of shipping code.
 - 🤖 **[ChatGPT - How does it work!](https://ashant.in/blog/chat-gpt)** - deep dive into how LLMs work.
 - 🔬 **[The Scientific Method Doesn't Exist](https://ashant.in/blog/scientific-method)** - on epistemology and falsifiability.
-
-<br>
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/prashantbhudwal)
 
 <br>
 
