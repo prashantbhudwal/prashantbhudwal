@@ -2,8 +2,6 @@
 
 # Hi, I'm Prashant
 
-📍 Bengaluru, India 
-
 I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumbing.
 
 <!-- <a href="https://ashant.in"><img alt="Website" src="https://img.shields.io/badge/ashant.in-111111?style=flat-square&logo=google-chrome&logoColor=white" /></a>
@@ -44,7 +42,6 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 ![codex](https://img.shields.io/badge/-codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![opencode](https://img.shields.io/badge/-opencode-111111?style=flat-square&logo=windowsterminal&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-191919?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 <br>
 
