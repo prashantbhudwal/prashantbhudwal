@@ -48,7 +48,7 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 ## Projects
 
 ### Current
-- 🎓 **[buddy](https://github.com/prashantbhudwal/buddy)** - agent to help you learn anything.
+- 🎓 **[buddy](https://github.com/prashantbhudwal/buddy-releases)** - agent to help you learn anything.
 
 ### Legacy
 
