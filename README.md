@@ -12,7 +12,6 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 <p>
   <a href="#projects">Projects</a> ·
   <a href="#writing">Writing</a> ·
-  <a href="#github-activity">GitHub Activity</a> ·
   <a href="#connect">Connect</a>
 </p>
 
