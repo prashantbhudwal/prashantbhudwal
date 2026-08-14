@@ -47,7 +47,7 @@ I ship AI-agents end-to-end: product, UX, reliability, and the unglamorous plumb
 ## Projects
 
 ### Current
-- 🎓 **[Buddy](https://github.com/prashantbhudwal/buddy)** - agent to help you learn anything.
+- 🎓 **[Buddy](https://github.com/prashantbhudwal/buddy-releases)** - agent to help you learn anything.
 - 📸 **[SlopShot](https://github.com/prashantbhudwal/slopshot)** - a screenshotting app for agent harnessers.
 
 
